@@ -1,5 +1,6 @@
 {
   "name": "DeneeWritesCodes",
+  "private": true,
   "homepage": "https://deneemcclain.github.io/me",
   "dependencies": {
 		"gh-pages": "^2.0.1",
